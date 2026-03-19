@@ -37,8 +37,8 @@ This project is organized into individual SQL files, where each file contains th
 
 - [01_customer_rentals.sql](./Queries/01_customer_rentals.sql) - Retrieves customer names, bike types, and rental durations to provide a general overview of rental behavior.
 - [02_longest_bike_rental.sql](./Queries/02_longest_bike_rental.sql) - Identifies the single longest rental duration to highlight extreme usage patterns.
-- [03_average_rental_duration.sql](.Queries/03_average_rental_duration.sql) - Calculates the average rental duration for each bike type to compare usage trends.
-- [04_most_active_stations.sql](.Queries/04_most_active_stations.sql) - Determines which stations have the highest number of rentals, helping identify high-demand locations.
+- [03_average_rental_duration.sql](./Queries/03_average_rental_duration.sql) - Calculates the average rental duration for each bike type to compare usage trends.
+- [04_most_active_stations.sql](./Queries/04_most_active_stations.sql) - Determines which stations have the highest number of rentals, helping identify high-demand locations.
 - [05_customers_with_more_than_5_rentals.sql](./Queries/05_customers_with_more_than_5_rentals.sql) - Lists customers with more than a set number of rentals to identify loyal or high-frequency users.
 - [06_rentals_with_missing_end_stations.sql](./Queries/06_rentals_with_missing_end_stations.sql) - Detects rentals that have not yet been returned, useful for identifying operational or tracking issues.
 - [07_total_revenue_per_month.sql](./Queries/07_total_revenue_per_month.sql) - Aggregates total revenue by month to analyze financial performance over time.
